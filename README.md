@@ -1,2 +1,2 @@
 # Project
-is for some little projects
+This ist A TypeScript Test Project.
